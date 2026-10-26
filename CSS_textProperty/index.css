@@ -1,0 +1,77 @@
+.box{
+    width: 100%;
+    border: 2px solid firebrick;
+    background-color: aliceblue;
+    padding: 10px;
+    
+}
+
+#box1{
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: brown;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align:left;
+    text-decoration: line-through;
+}
+#box2{
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: rgb(205, 72, 72);
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration-line: underline;
+}
+#box3{
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: rgb(219, 148, 148);
+    color:chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: right;
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
+
+.header{
+    margin-top: 100px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: royalblue;
+    border: 1px solid  red;
+    background-color: azure;
+    text-transform: capitalize;
+}
+
+#outer{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+#outer h2{
+    font-size: 50px;
+}
+
+#inner{
+    height: 250px;
+    width: 250px;
+    background-color: red;
+}
+#inner h2{
+    font-size: 25px;
+}
