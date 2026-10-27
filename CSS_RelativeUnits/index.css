@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 50%;
+    width: 50%;
+    border: 2px solid red;
+    font-size: 25px;
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: seagreen;
+    margin: 10px;
+    font-size: 0.75em;
+    /* font-size: 0.75rem; */
+
+
+}
