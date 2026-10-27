@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 50%;
+    width: 50%;
+    border: 2px solid red;
+
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: seagreen;
+    margin: 10px;
+    text-align: center;
+    /* display: block; */
+    /* display: inline; */
+    display: inline-block;
+
+    /* able to give this because inline-block property */
+    height: 250px;
+    width: 200px;
+}
+#box1{
+    display: none;
+    /* visibility: hidden; */
+}
