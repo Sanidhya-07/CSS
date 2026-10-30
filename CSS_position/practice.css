@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav ul{
+    text-align: center;
+    font-size: larger;
+    padding: 15px;
+    background: greenyellow;
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 100px;
+    text-transform: uppercase;
+
+}
+a{
+    text-decoration: none;
+}
+
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: green;
+    margin: 25px;
+    border-radius: 50%;
+}
+
+
+.container{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin: 10px;
+    display: inline-block;
+}
+
+#box1{
+    position: fixed;
+    right: 50px;
+}
+
+footer p{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgb(81, 4, 62);
+    font-size: larger;
+}
